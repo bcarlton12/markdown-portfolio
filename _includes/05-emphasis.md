@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+this is **NOT** the way we do things here at Heartland AEA.  You *might* want to rethink what you are doing.
