@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Kaufman Stadium](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w372/mlb/pcjfojtawx2cybwbtrch.jpg)
